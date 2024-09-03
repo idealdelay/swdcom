@@ -1,4 +1,4 @@
 [submodule "stlink"]
 	path = stlink
-	url = git@github.com/idealdelay/stlink.git
+	url = git@github.com:idealdelay/stlink.git
 	branch = swdcom
